@@ -1,0 +1,18 @@
+{
+  "name": "Core — Your daily rehabilitation companion",
+  "short_name": "Core",
+  "description": "A guided rehabilitation program to rebuild core strength, one day at a time.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFB",
+  "theme_color": "#2D9B6F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
